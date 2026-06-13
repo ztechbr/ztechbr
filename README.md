@@ -1,4 +1,6 @@
-<h1 align="center">Rodrigo Zaroni</h1>
+<p align="center">
+  <img src="banner.png" alt="Rodrigo Zaroni Banner">
+</p>
 
 <h3 align="center">
 AI • Data • Digital Transformation • Enterprise Architecture
@@ -127,13 +129,13 @@ Initiatives covering:
 ## Languages
 
 ```text
-Python | SQL | Go | JavaScript | TypeScript
+Python | SQL |.R | Kotlin | Rust
 ```
 
 ## Data
 
 ```text
-PostgreSQL | SQL Server | MySQL | SQLite
+PostgreSQL | SQL Server | MySQL | SQLite | Oracle
 Pandas | NumPy | Power BI | Tableau
 ```
 
