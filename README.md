@@ -219,9 +219,6 @@ www.linkedin.com/in/rodrigozaroni
 Website:
 www.ztechnologies.io
 
-Email:
-rodrigo.zaroni@gmail.com
-
 ---
 
 <p align="center">
